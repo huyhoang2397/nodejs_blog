@@ -1,7 +1,17 @@
 @import '_variables';
-h1{
-	color: $red-color;
+
+.card-course-item {
+    margin-top: 16px;
 }
-h2{
-	color: green;
+
+.user-avatar {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    margin-right: 4px;
+}
+
+checkbox-select-all-options{
+	width: 120px;
+	margin: 0px 16px;
 }
